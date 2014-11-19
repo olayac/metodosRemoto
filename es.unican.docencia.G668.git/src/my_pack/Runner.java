@@ -21,7 +21,7 @@ public class Runner {
 		// if (guardian.hasAccess()) {
 			
 			// Asr workerAtRight = new Asr();
-			// Left workerAtLeft   = new Left();
+			// Occ workerAtLeft   = new Occ();
 			// Company company     = new Company();
 		
 			System.out.println("==================================================");
