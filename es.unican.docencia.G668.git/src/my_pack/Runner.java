@@ -16,27 +16,27 @@ public class Runner {
  	*/
 	public static void main(String[] args) {
 
-		// AccessControl guardian = new AccessControl();
+		 AccessControl guardian = new AccessControl();
 		
-		// if (guardian.hasAccess()) {
+		 if (guardian.hasAccess()) {
 			
-			// Asr workerAtRight = new Asr();
-			// Occ workerAtLeft   = new Occ();
-			// Company xxx     = new Company();
+			 Asr workerAtRight = new Asr();
+			 Occ workerAtLeft   = new Occ();
+			 Company xxx     = new Company();
 		
 			System.out.println("==================================================");
 			System.out.println("              Product Developed by                ");
 			System.out.println("");
-			// company.identify(); 
+			xxx.identufy(); 
 			System.out.println("");
 			System.out.println("              		Credits To  				 ");
 			System.out.println("");
-			// workerAtLeft.identify();
-			// workerAtRight.identify();
+			workerAtLeft.identify();
+			workerAtRight.identufy();
 			System.out.println("==================================================");
-		// } else {
-		//	System.out.println("You do not have access to this application");			
-		// }// if
+		 } else {
+			System.out.println("You do not have access to this application");			
+		 } //if
 	} // main
 
 } // Runner
