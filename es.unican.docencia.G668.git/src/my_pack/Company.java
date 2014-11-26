@@ -2,6 +2,6 @@ package my_pack;
 
 public class Company {
 	public void identufy(){
-		System.out.println("XXX");
+		System.out.println("Africa's company");
 	}
 }
