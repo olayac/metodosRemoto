@@ -22,7 +22,7 @@ public class Runner {
 			
 			// Asr workerAtRight = new Asr();
 			// Occ workerAtLeft   = new Occ();
-			// Company company     = new Company();
+			// Company xxx     = new Company();
 		
 			System.out.println("==================================================");
 			System.out.println("              Product Developed by                ");
