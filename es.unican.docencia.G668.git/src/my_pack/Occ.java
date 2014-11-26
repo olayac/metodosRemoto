@@ -1,8 +1,7 @@
 package my_pack;
 
 public class Occ {
-
-	public void identity(){
+	public void identufy(){
 		System.out.println("Cilleruelo Cadelo");
 	}
 }
